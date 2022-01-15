@@ -1,0 +1,80 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 80%;
+    background-image: url(./images/TV-Series-Money-Heist-Wallpaper-HD-53055.jpg);
+
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    background-color:red;
+    border-radius: 70px;
+    margin-bottom: 50px;
+    color: white;
+    line-height: 70px;
+    font-family:cursive;
+}
+input {
+    height: 40px;
+    margin-top: 40px;
+    border-color: dodgerblue;
+    box-shadow:0 0 8px 0 dodgerblue;
+}
+button {
+    height: 40px;
+    border-color: dodgerblue;
+    box-shadow: 0 0 8px 0 dodgerblue;
+    margin-left: 10px;
+
+}
+button:hover{
+    background-color: chartreuse
+}
+
+.cards{
+    position: absolute;
+}
+
+
+.card1{
+  height: 300px;
+  width: 300px;
+  margin-top: 100px;
+
+
+}
+
+.card2{
+   margin-bottom: 30px;
+   
+}
+
+.card3{
+    background-color: chartreuse;
+    height: 200px;
+    width: 300px;
+}
+.card3 img{
+    position: absolute;
+    left: 1200px;
+    bottom: 520px;
+
+}
+
+.card4 img{
+    left: 1200px;
+    position: absolute;
+    bottom: 235px;
+
+}
+
+audio {
+    left: 1200px;
+    position: absolute;
+    top: 20px;
+}
+
+

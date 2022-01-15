@@ -1,0 +1,20 @@
+.first {
+    height: 500px;
+    width: 500px;
+    background-color: chartreuse;
+    border: 10px solid;background-color: chocolate;
+    border-radius: 50px;
+    background-position: 100%;
+    letter-spacing: 5px;
+    text-shadow:2px 3px 4px black;
+    
+    font-family: fantasy;
+    box-shadow: 5px 10px 20px red;
+
+}
+.saeed{
+
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}

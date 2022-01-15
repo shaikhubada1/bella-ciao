@@ -1,0 +1,35 @@
+.first{
+    height: 900px;
+    width: 900px;
+    background-color: blue;
+}
+.second{
+    height: 900px;
+    width: 900px;
+    background-color: brown;
+}
+.third{
+    height: 900px;
+    width: 900px;
+    background-color: darkgreen;
+}
+
+.iamfix{
+    height: 300px;
+    width: 300px;
+    bottom: opx;
+    right: 0px;
+    top: 50px;
+    background-color: darkolivegreen;
+    position: fixed;
+}
+
+.iamstickey{
+    height: 300px;
+    width: 300px;
+    background-color: darkmagenta;
+    position: sticky;
+        top: 50px  ;
+        
+        z-index: 1;
+    }
